@@ -1,0 +1,9 @@
+{
+  "name": "lizyaver",
+  "version": "0.0.0",
+  "description": "Lizyaver",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
